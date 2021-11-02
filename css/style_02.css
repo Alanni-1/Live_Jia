@@ -73,8 +73,12 @@ section:nth-child(even) .container {
   z-index: 1;
   max-width: 400px;
   color: #fff;
+<<<<<<< HEAD
   font-size: 16px;
   line-height: 26px;
+=======
+  font-size: 20px;
+>>>>>>> 86572fac847490c690fb990d1479cdf68b81aba9
   text-shadow: #f78ac4 0 1px 6px;
   letter-spacing: 3px;
   text-indent: 2em;
